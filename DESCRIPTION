@@ -1,0 +1,10 @@
+Package: RESIN
+Title: REarrangement Signatures ImplemeNtation
+Description: Tool for identifying rearrangement signatures using non-negative matrix factorisation.
+Depends: R (>= 3.1.0), GenomicRanges, parallel,gtools
+Imports: GenomicRanges, parallel,gtools,lsa,NMF,cluster,copynumber
+Version: 0.2.0
+Date: 20/07/2017
+Author: Christopher Steele
+Maintainer: Christopher Steele <christopher.d.steele.1@gmail.com>
+License: GPL-3

@@ -1,0 +1,13 @@
+export(getRearrClass)
+export(bootNMF)
+export(nmfFitMetrics)
+export(getDists)
+
+importFrom('GenomicRanges','granges')
+importFrom("parallel","mclapply","detectCores")
+importFrom("gtools","smartbind")
+importFrom("lsa","cosine")
+importFrom("NMF","nmf")
+importFrom("cluster","silhouette")
+importFrom("copynumber","pcf")
+importFrom("cluster","pam")
