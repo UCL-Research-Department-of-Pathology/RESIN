@@ -2,6 +2,8 @@
 REarrangement Signatures ImplemeNtation
 Package for identifying rearrangement signatures.
 
+For full details of the method and citation, please see [Steele et al. (2017)](https://www.sciencedirect.com/science/article/pii/S1535610819300972).
+
 Dependencies: parallel, GenomicRanges
 
 ## For identifying rearrangement signatures: getRearrClass(), bootNMF() and nmfFitMetrics()
